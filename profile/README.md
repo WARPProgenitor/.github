@@ -5,9 +5,13 @@
 <h1>WARP - PROGENITOR </h1>
 <br>
 
+ 
+<div align="center">
+ 
 ![Cat Dance Warp Progran Mascot](https://media1.tenor.com/m/5BYK-WS0__gAAAAd/cool-fun.gif)
 
 ![Cat Dance Left Mascot](https://media1.tenor.com/m/3Qb1nM5v680AAAAd/cat-cats.gif)
+</div>
 
  # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hello everyone!!! Welcome to the community.
 </div>
