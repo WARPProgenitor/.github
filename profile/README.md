@@ -8,11 +8,11 @@
 </div>
 
 <p align="center">
- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hello everyone!!! Welcome to the community.
+ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hello everyone!!! Welcome to Warp Progenitor.
 </p>
 
 <div align="center">
- <img src="https://content.codecademy.com/courses/learn-cpp/community-challenge/highfive.gif" width="200">
+ <img src="https://content.codecademy.com/courses/learn-cpp/community-challenge/highfive.gif" width="400">
 </div>
 
 <p align="center">
@@ -42,6 +42,6 @@
 
 # About 
 
-+ Welcome to **`Warp`** where anyone interested in contributing and adding values to our **Project** repos and coding can connect and interact with fellow peers from *the side of ur desk* and not only learn but also collaborate on various projects!
++ Welcome to **`Warp Progenitor`** where anyone interested in contributing and adding values to our **Project** repos and coding can connect and interact with fellow peers from *the side of ur desk* and not only learn but also collaborate on various projects!
 + This organisation is **Something Here**
 + *Make Pull Requests, open Issues, share ideas, help each other, fix problems!*
