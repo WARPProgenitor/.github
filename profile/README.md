@@ -1,8 +1,7 @@
-<div align="center">
 ![Cat Dance Warp Progran Mascot](https://tenor.com/tKgaYjwJq16.gif)
+<div align="center">
 <h1>WARP - PROGENITOR </h1>
 <br>
-
 
 ![Sonny and Mariel high fiving.](https://content.codecademy.com/courses/learn-cpp/community-challenge/highfive.gif)
  # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hello everyone!!! Welcome to the community.
@@ -14,7 +13,7 @@
 <a href="#" style="text-decoration:none">
   <img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-  <a href="https://discord.com/invite/g7FmxB9uZp" style="text-decoration:none">
+  <a href="#" style="text-decoration:none">
   <img height="30" src="https://img.shields.io/badge/discord-darkblue.svg?&style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 
@@ -30,7 +29,7 @@
 <!-- <a href="https://www.instagram.com/designandcode.community" style="text-decoration:none">
   <img height="30" src = "https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white">
 </a> -->
-<a href="https://www.youtube.com/channel/UCsuzc8lqAbgUYo4yzpjtfSw?sub_confirmation=1" style="text-decoration:none">
+<a href="#" style="text-decoration:none">
   <img height="30" src = "https://img.shields.io/badge/YouTube-%23E20036.svg?&style=for-the-badge&logo=YouTube&logoColor=white">
 </a>
   <h2 align="center"> This is a place to welcome all!🥳</h2>
