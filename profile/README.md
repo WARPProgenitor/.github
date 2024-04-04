@@ -12,7 +12,7 @@
 </p>
 
 <div align="center">
- <img src="https://content.codecademy.com/courses/learn-cpp/community-challenge/highfive.gif" width="400">
+ <img src="https://content.codecademy.com/courses/learn-cpp/community-challenge/highfive.gif" width="900">
 </div>
 
 <p align="center">
