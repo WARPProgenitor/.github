@@ -5,7 +5,7 @@
 <div align="center">
  <img src="https://media1.tenor.com/m/5BYK-WS0__gAAAAd/cool-fun.gif" width="200">
  <img src="https://media1.tenor.com/m/3Qb1nM5v680AAAAd/cat-cats.gif" width="200">
-  <img src="https://media1.tenor.com/m/VfNHIfcyAIMAAAAd/watch-a-fat-cat-dance-an-american-dance-girlfriend.gif" width="200">
+  <img src="https://media1.tenor.com/m/MuP-hTTuBXEAAAAd/cat-dance-cat.gif" width="200">
 </div>
 
 <p align="center">
