@@ -1,12 +1,46 @@
-## Hi there 👋
+<div align="center">
+![Cat Dance Warp Progran Mascot](https://tenor.com/tKgaYjwJq16.gif)
+<h1>WARP - PROGENITOR </h1>
+<br>
 
-<!--
 
-**Here are some ideas to get you started:**
+![Sonny and Mariel high fiving.](https://content.codecademy.com/courses/learn-cpp/community-challenge/highfive.gif)
+ # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hello everyone!!! Welcome to the community.
+<!-- ![Twitter Banner (1)](https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png) -->
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+</div>
+
+<p align="center">
+<a href="#" style="text-decoration:none">
+  <img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+  <a href="https://discord.com/invite/g7FmxB9uZp" style="text-decoration:none">
+  <img height="30" src="https://img.shields.io/badge/discord-darkblue.svg?&style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+
+<a href="#" style="text-decoration:none">
+  <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a> 
+<a href="https://github.com/WARPProgenitor" style="text-decoration:none">
+  <img height="30" src="https://img.shields.io/badge/Github-grey.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+</a>
+ <a href="#" style="text-decoration:none">
+  <img height="30" src="https://img.shields.io/badge/twitter-blue.svg?&style=for-the-badge&logo=Twitter&logoColor=white" />
+</a>
+<!-- <a href="https://www.instagram.com/designandcode.community" style="text-decoration:none">
+  <img height="30" src = "https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white">
+</a> -->
+<a href="https://www.youtube.com/channel/UCsuzc8lqAbgUYo4yzpjtfSw?sub_confirmation=1" style="text-decoration:none">
+  <img height="30" src = "https://img.shields.io/badge/YouTube-%23E20036.svg?&style=for-the-badge&logo=YouTube&logoColor=white">
+</a>
+  <h2 align="center"> This is a place to welcome all!🥳</h2>
+<!-- </div> -->
+
+<br />
+
+# About 
+
++ Welcome to **`Warp`** where anyone interested in contributing and adding values to our **Project** repos and coding can connect and interact with fellow peers from *the side of ur desk* and not only learn but also collaborate on various projects!
++ This organisation is **Something Here**
++ *Make Pull Requests, open Issues, share ideas, help each other, fix problems! * 
+
