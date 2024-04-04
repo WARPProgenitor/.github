@@ -1,8 +1,10 @@
+![Cat Dance Warp Progran Mascot](https://media1.tenor.com/m/5BYK-WS0__gAAAAd/cool-fun.gif)
+
+
 <div align="center">
 <h1>WARP - PROGENITOR </h1>
 <br>
 
-![Cat Dance Warp Progran Mascot](https://media1.tenor.com/m/5BYK-WS0__gAAAAd/cool-fun.gif)
 ![Sonny and Mariel high fiving.](https://content.codecademy.com/courses/learn-cpp/community-challenge/highfive.gif)
  # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hello everyone!!! Welcome to the community.
 <!-- ![Twitter Banner (1)](https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png) -->
