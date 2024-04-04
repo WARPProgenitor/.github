@@ -7,8 +7,8 @@
 
 ![Cat Dance Warp Progran Mascot](https://media1.tenor.com/m/5BYK-WS0__gAAAAd/cool-fun.gif)
 ![Sonny and Mariel high fiving.](https://content.codecademy.com/courses/learn-cpp/community-challenge/highfive.gif)
- # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hello everyone!!! Welcome to the community.
 ![Cat Dance Left Mascot](https://media1.tenor.com/m/jq3TOO2LoS0AAAAd/cat-dance.gif)
+ # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hello everyone!!! Welcome to the community.
 </div>
 
 
